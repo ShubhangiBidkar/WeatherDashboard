@@ -54,4 +54,4 @@ This dashboard provides a visual summary of current and forecasted weather condi
 ---
 ### 🙌 Credits
 
-Special thanks to the [Developer Challenge YouTube Channel](https://www.youtube.com/@developerchallenge) for inspiration and guidance throughout this project.
+Special thanks to the [The Developer Challenge YouTube Channel](https://www.youtube.com/@The-Developer-BI) for inspiration and guidance throughout this project.
